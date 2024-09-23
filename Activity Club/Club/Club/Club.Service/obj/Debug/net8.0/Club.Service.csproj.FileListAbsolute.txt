@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Club\Club.Service\bin\Debug\net8.0\Club.Service.deps.json
+C:\Users\user\source\repos\Club\Club.Service\bin\Debug\net8.0\Club.Service.dll
+C:\Users\user\source\repos\Club\Club.Service\bin\Debug\net8.0\Club.Service.pdb
+C:\Users\user\source\repos\Club\Club.Service\bin\Debug\net8.0\Club.Core.dll
+C:\Users\user\source\repos\Club\Club.Service\bin\Debug\net8.0\Club.Core.pdb
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.AssemblyInfo.cs
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Ser.C521FD53.Up2Date
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.dll
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\refint\Club.Service.dll
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\Club.Service.pdb
+C:\Users\user\source\repos\Club\Club.Service\obj\Debug\net8.0\ref\Club.Service.dll
